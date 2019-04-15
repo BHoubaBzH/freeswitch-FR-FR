@@ -1,8 +1,1 @@
-These files are protected by copyright. Read the file LICENSE for more information.
-
-This project made possible by: 
-   ARKEA https://www.arkea.com as sponsor company 
-   ATS Studios https://www.ats-studios.com as performer company 
- 
-If you'd like additional recordings from the same artist, please
-email philippe.rioual@arkea.com or contact directly performer for a quote.
+These files are licensed under the terms of the creative commons Attribution 3.0 license: http://creativecommons.org/licenses/by-sa/3.0/
